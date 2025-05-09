@@ -30,7 +30,7 @@ pip install -r requirements.txt
 5. Run files in order
 
 ```
-  1. pdfReader.py
-  2. train.py
+  1. pdfReader.py // data retrievel from local folder
+  2. train.py    
   3. test.py
 ```
